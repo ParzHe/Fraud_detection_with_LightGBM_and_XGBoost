@@ -3,6 +3,14 @@ archive/
 Archive/
 *.csv
 
+# Models Files
+models/
+Models/
+*.pkl
+
+# catboost info
+catboost_info/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
