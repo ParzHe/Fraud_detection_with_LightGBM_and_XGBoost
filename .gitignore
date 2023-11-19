@@ -11,6 +11,10 @@ Models/
 # catboost info
 catboost_info/
 
+# Exampls Files
+examples/
+Examples/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
